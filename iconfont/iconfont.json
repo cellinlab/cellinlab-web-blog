@@ -1,0 +1,16 @@
+{
+  "id": "3275661",
+  "name": "wecat-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "25793655",
+      "name": "公众号",
+      "font_class": "gongzhonghao",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    }
+  ]
+}
